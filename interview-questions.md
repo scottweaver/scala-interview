@@ -13,7 +13,7 @@
 5. What is a Partially Applied Function?
   1.  What happens when you 'lift' a partial function?
 
-6 What is currying?
+6. What is currying?
 
 ## Data Structures
 
