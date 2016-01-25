@@ -9,9 +9,9 @@
   1. How are they different?
 
 4. What is a Partial Function?
+  1.  What happens when you 'lift' a partial function?
 
 5. What is a Partially Applied Function?
-  1.  What happens when you 'lift' a partial function?
 
 6. What is currying?
 
@@ -40,3 +40,6 @@
 3. The structures with both `map` and `flatmap` have a special term that describes them relative to functional programming.  What is that term?
 
 4. What is a type class?  Give me an example of a good use of a type class.
+
+## Specific frameworks
+1. ScalaZ has the concept of the `\/` sometimes refered to as a disjunction.  What data structure in Scala is disjunction analagous too?  What makes the disjunction different from its Scala conterpart?
