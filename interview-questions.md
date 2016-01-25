@@ -38,3 +38,5 @@
 2. Many of the structures that have a `map` function also have a `flatmap` function as well.  What does `flatmap` do?  How is it different than `map`?
 
 3. The structures with both `map` and `flatmap` have a special term that describes them relative to functional programming.  What is that term?
+
+4. What is a type class?  Give me an example of a good use of a type class.
