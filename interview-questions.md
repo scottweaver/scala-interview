@@ -1,5 +1,8 @@
 # Scala Interview Questions
 
+## General
+1. What do you like about Scala?  What do you dislike?
+
 ## Functions
 1. Scala is functional/OO hybrid language.  One of the most important ideas of a functional langauge is that a function is a "first class citizen".  What does that mean?
 
