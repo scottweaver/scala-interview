@@ -49,6 +49,6 @@
 ## Specific frameworks
 1. ScalaZ has the concept of the `\/` sometimes refered to as a disjunction.  What data structure in Scala is disjunction analagous too?  What makes the disjunction different from its Scala conterpart?
 
-2. What is the primary data structure of th Akka framework?
+2. What is the primary data structure of the Akka framework?
 
 3. Are Akka Actors presently type safe?
