@@ -3,7 +3,7 @@
 ## General
 1. What do you like about Scala?  What do you dislike?
 
-2. Functional programming values mutability.  Why is this a good thing?  Are there any cases where being immutable is ok or prefered?
+2. Functional programming values mutability.  Why is this a good thing?  Are there any cases where being mutable is ok or prefered?
 
 ## Functions
 1. Scala is functional/OO hybrid language.  One of the most important ideas of a functional langauge is that a function is a "first class citizen".  What does that mean?
